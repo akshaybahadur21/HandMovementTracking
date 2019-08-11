@@ -34,7 +34,7 @@ while True:
 			cv2.circle(img, center, 5, (0, 0, 255), -1)
 		
 	pts.appendleft(center)
-	for i in xrange (1,len(pts)):
+	for i in range (1,len(pts)):
 		if pts[i-1]is None or pts[i] is None:
 			continue
 		thick = int(np.sqrt(len(pts) / float(i + 1)) * 2.5)
