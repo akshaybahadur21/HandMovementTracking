@@ -7,7 +7,7 @@ This code helps you to understand and track your hand movement using webcam.
 The example code is in Python ([version 2.7](https://www.python.org/download/releases/2.7/) or higher will work). 
 You need to install opencv library
 
-##### pip install requirements.txt
+` pip install requirements.txt `
 
 ## Description ✏️
 
