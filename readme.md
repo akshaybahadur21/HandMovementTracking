@@ -26,7 +26,7 @@ python Write.py
 
 ## Results 📊
 
-<img src="https://github.com/akshaybahadur21/HandMovementTracking/blob/master/write.gif">
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/write.gif">
 
 ## References 🔱
  
