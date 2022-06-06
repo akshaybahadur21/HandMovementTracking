@@ -38,6 +38,8 @@ python Write.py
 
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/write_v2.gif" width=720>
 
+###### Made with ❤️ and 🦙 by Akshay Bahadur
+
 ## References 🔱
  
  -  [Adrian Rosebrock Ball Tracking](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
