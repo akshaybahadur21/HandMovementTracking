@@ -40,6 +40,19 @@ python Write.py
 
 ###### Made with ❤️ and 🦙 by Akshay Bahadur
 
+## 📌 Cite Us
+
+To cite this guide, use the below format:
+```
+@article{HandMovementTracking,
+author = {Bahadur, Akshay},
+journal = {https://github.com/akshaybahadur21/HandMovementTracking},
+month = {01},
+title = {{HandMovementTracking}},
+year = {2018}
+}
+```
+
 ## References 🔱
  
  -  [Adrian Rosebrock Ball Tracking](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
